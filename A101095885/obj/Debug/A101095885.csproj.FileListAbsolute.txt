@@ -1,0 +1,6 @@
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\A101095885\bin\Debug\A101095885.exe.config
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\A101095885\bin\Debug\A101095885.exe
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\A101095885\bin\Debug\A101095885.pdb
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\A101095885\obj\Debug\A101095885.csprojResolveAssemblyReference.cache
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\A101095885\obj\Debug\A101095885.exe
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\A101095885\obj\Debug\A101095885.pdb

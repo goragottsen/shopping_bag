@@ -1,0 +1,15 @@
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\BoundedBagTest.dll
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\BoundedBagTest.pdb
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\A101095885.exe
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\A101095885.pdb
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\A101095885.exe.config
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\obj\Debug\BoundedBagTest.csprojResolveAssemblyReference.cache
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\obj\Debug\BoundedBagTest.dll
+C:\Users\Goragottsen\Desktop\gbc\COMP2129\assignment\A101095885\BoundedBagTest\obj\Debug\BoundedBagTest.pdb
